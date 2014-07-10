@@ -1,4 +1,4 @@
-# Custom user authentication with webapp2
+# Custom user authentication with webapp2 + Jinja2
 
 This is a skeleton implementation of user account management with webapp2.
 
@@ -15,3 +15,7 @@ You can find most of the logic in `main.py` (even though you may want to put han
 ## More information
 
 You can find a detailed tutorial in this blog post: [Custom user authentication with webapp2](http://blog.abahgat.com/2013/01/07/user-authentication-with-webapp2-on-google-app-engine).
+
+## Info by Matej Ramuta
+
+I implemented Jinja2 templating engine into abahgat's great user auth for webapp2.
